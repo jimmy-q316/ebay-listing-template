@@ -1,0 +1,148 @@
+#listing_template_wraper{
+	max-width:100%;
+	overflow: hidden;
+}
+.navbar{
+	border-radius: 0px 0px;
+}
+.navbar .navbar-nav{
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+.navbar .navbar-collapse{
+	text-align: center;
+}
+.navbar-brand{
+	padding: 4px 16px;
+}
+.navbar-default{
+	background-color: #FFFFFF;
+	border-top: 2px solid #D24E4C;
+	border-bottom: 2px solid #D24E4C;
+}
+.container-fluid{
+	padding: 0px;
+}
+.shipping{
+	padding: 4px 12px;
+	text-align: center;
+	background-color: #D24E4C;
+}
+.shipping a{
+	color: #FFFFFF;
+} 
+.btn-default{
+	color: #D24E4C;
+	border-color: #FFF;
+}
+.search-box .form-control{
+	border-color: #FFF;
+	box-shadow: none;
+}
+.search-btn{
+	background:url(http://www.perrynulltrading.com/media/retouch/quan/img/search.png);
+	background-size: contain;
+  	background-repeat: no-repeat;
+  	width: 28px;
+  	height: 28px;
+}
+footer .navbar-default{
+	background-color: #EAE9E7;
+	margin-bottom: 8px;
+}
+.right{
+	float:right;
+}
+.left{
+	float:left;
+}
+.footer-widget p{
+	font-size: 0.8em;
+	line-height: 0.8em;
+}
+.footer-widget b{
+	color:#D24E4C;
+}
+
+dt{
+	float: left;
+	font-weight:bold;
+}
+h3{
+	color:#D24E4C;
+	text-align:center;
+}
+dt, dl, p{
+	color:#ccc;
+}
+dl, p{
+	text-indent: 16px;
+}
+p.price{
+	font-size: 1.2em;
+	font-weight:bold;
+}
+
+p.section{
+	padding: 16px 0px;
+	border-top: 1px #EAE9E7 solid;
+	border-bottom: 1px #EAE9E7 solid;
+}
+.product-details{
+	padding: 24px 0px;
+}
+
+.description{
+	padding: 24px 0px;
+}
+.divider{
+	margin-left:-50%;
+	margin-right:-50%;
+}
+
+.additional-info{
+	margin-bottom:24px;
+}
+
+.newsletter, .forum{
+	padding: 48px 16px 0px 16px;
+}
+.newsletter p, .forum p{
+	text-indent: 0px;
+	font-size:0.9em;
+	margin-top:0.4em;
+}
+
+.newsletter label{
+	text-transform: uppercase;
+	color:#D24E4C;
+	display:block;
+	font-size: 1.2em;
+}
+
+.newsletter .form-group{
+	border: solid 1px #000;	
+	margin-bottom: 0px;
+}
+.newsletter input{
+	padding: 8px 0px 8px 8px;
+	width: calc(100% - 52px);
+	border: none;
+}
+
+.newsletter button{
+	padding:0px;
+	background-color:#fff;
+	border: none;
+}
+
+.forum button{
+	background-color: #D24E4C;
+	font-size: 1.3em;
+	width:100%;
+	padding: 8px 0px;
+	text-transform:uppercase;
+	color:#FFFFFF;
+	text-decoration: underline;
+}
